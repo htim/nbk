@@ -1,2 +1,5 @@
 # Ignore txt files
 *.txt
+
+.idea/workspace.xml
+/out
